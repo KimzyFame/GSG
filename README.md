@@ -8,4 +8,11 @@ GSG is also developed for users to easily track each and every transactions done
 In the users profile, a notification icon is provided where users will get any latest development or any upcoming collections to be uploaded on GSG platforms.
 And for any digital items to be uploaded on GSG will undergo authentication system for confirmation of ownership.
 
-Project team members - *github.com/KimzyFame okikiadekunle89@gmail.com *github.com/d0nc0de olusolawinner1@gmail.com
+Project team members - *github.com/KimzyFame okikiadekunle89@gmail.com *github.com/d0nc0de olusolawinner1@gmail.com .
+
+
+Project links - [Project Design on figma](https://www.figma.com/file/fMwZMXn6UkNjZhv7GHJ1rz/MARKETPLACE)
+
+[Project Prototype on figma](https://www.figma.com/proto/fMwZMXn6UkNjZhv7GHJ1rz/MARKETPLACE?node-id=0%3A1&fuid=1087454672063604446)
+
+[Project three minutes video presentation](https://www.dropbox.com/s/0eigx2ma2g76uk9/InShot_20220715_112102087.mp4?dl=0)
