@@ -14,7 +14,9 @@ And for any digital items to be uploaded on GSG will undergo authentication syst
 Project team members - *github.com/KimzyFame okikiadekunle89@gmail.com *github.com/d0nc0de olusolawinner1@gmail.com .
 
 
-Project links - [Project Design on figma](https://www.figma.com/file/fMwZMXn6UkNjZhv7GHJ1rz/MARKETPLACE)
+Project links - [Project Logo](https://www.dropbox.com/s/ywdnvqx7x2ix431/loooo.png?dl=0)
+
+[Project Design on figma](https://www.figma.com/file/fMwZMXn6UkNjZhv7GHJ1rz/MARKETPLACE)
 
 [Project Prototype on figma](https://www.figma.com/proto/fMwZMXn6UkNjZhv7GHJ1rz/MARKETPLACE?node-id=0%3A1&fuid=1087454672063604446)
 
